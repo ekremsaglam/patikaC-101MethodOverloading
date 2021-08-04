@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\bin\Debug\net5.0\methodOverloading.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\bin\Debug\net5.0\methodOverloading.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\bin\Debug\net5.0\methodOverloading.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\bin\Debug\net5.0\methodOverloading.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\bin\Debug\net5.0\methodOverloading.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\bin\Debug\net5.0\ref\methodOverloading.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\bin\Debug\net5.0\methodOverloading.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\obj\Debug\net5.0\methodOverloading.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\obj\Debug\net5.0\methodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\obj\Debug\net5.0\methodOverloading.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\obj\Debug\net5.0\methodOverloading.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\obj\Debug\net5.0\methodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\obj\Debug\net5.0\methodOverloading.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\obj\Debug\net5.0\ref\methodOverloading.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\obj\Debug\net5.0\methodOverloading.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodOverloading\obj\Debug\net5.0\methodOverloading.genruntimeconfig.cache
